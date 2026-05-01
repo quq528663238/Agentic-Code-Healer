@@ -1,0 +1,9 @@
+### 2. `requirements.txt` (依赖文件，增加真实感)
+
+```text
+langchain>=0.1.0
+pydantic>=2.5.0
+chromadb>=0.4.20
+openai>=1.10.0
+tiktoken>=0.5.2
+pytest>=8.0.0
